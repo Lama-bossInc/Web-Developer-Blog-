@@ -1,0 +1,11 @@
+button{
+	background-color: blue;
+	color: red;
+}
+body{
+	background-color: green;
+	background-image: url("./Images/stalker.jpg")
+}
+.bgcolor{
+	background-color: yellow;
+}
